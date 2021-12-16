@@ -6,7 +6,8 @@ Docs at https://kinetics.readthedocs.io/en/latest/
 
 The final yields of hydrogen borrowing cascades are limited by thermodynamics. 
 In particular, the position of equilibrium for the IRED step is critical, 
-although this can be pushed towards the product by increasing the concentration of R2-NH2.  
+although this can be pushed towards the product by increasing the concentration of R2-NH2. 
+However, this is also fighting the 55.5 M concentration of water on the other side.  
 
 ![Hydrogen Borrowing](figures/hyd_bor.jpg)
 
